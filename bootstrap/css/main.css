@@ -1,0 +1,17 @@
+.logo-header {
+    width: 5%;
+}
+
+.imagen-carousel{
+    height: 70vh;
+}
+
+.contenedor-productos{
+    padding: 4rem;
+}
+
+.producto {
+    width: 15rem;
+    height: 15rem;
+    border-radius: .5rem;
+}
